@@ -2,7 +2,7 @@
   "designerVersion" : "1.10.34",
   "id" : "PersPersonneList",
   "name" : "PersPersonneList",
-  "lastUpdate" : 1580394585390,
+  "lastUpdate" : 1580396198941,
   "rows" : [
     [
       {
@@ -173,7 +173,7 @@
                     "value" : ""
                   }
                 },
-                "reference" : "0558e7e7-d06e-4f02-9a77-acc57af89933",
+                "reference" : "e7a81f0c-619d-4344-a8af-dfaadfda2163",
                 "hasValidationError" : false,
                 "id" : "pbContainer",
                 "rows" : [
@@ -184,8 +184,8 @@
                 "type" : "container",
                 "dimension" : {
                   "md" : 11,
-                  "sm" : 11,
-                  "xs" : 11,
+                  "sm" : 12,
+                  "xs" : 12,
                   "lg" : 11
                 },
                 "propertyValues" : {
@@ -2087,7 +2087,7 @@
                           "value" : ""
                         }
                       },
-                      "reference" : "eedc1dec-d692-4125-a4b8-7c517f8d0efa",
+                      "reference" : "e90d6270-55cb-47a7-bd2b-764d51800484",
                       "hasValidationError" : false,
                       "id" : "pbContainer",
                       "rows" : [
@@ -2113,7 +2113,7 @@
                         },
                         "hidden" : {
                           "type" : "expression",
-                          "value" : "!ctxContexte_persPersonnes_selected"
+                          "value" : "!ctxContexte_persPersonnes.includes(ctxContexte_persPersonnes_selected)"
                         },
                         "widgetId" : {
                           "type" : "constant"
@@ -4504,7 +4504,7 @@
                                 "value" : ""
                               }
                             },
-                            "reference" : "f6010ae5-8c96-4908-a81c-5f1028acc921",
+                            "reference" : "450d7a17-2398-4ff7-961e-698f3150d477",
                             "hasValidationError" : false,
                             "id" : "pbContainer",
                             "rows" : [
@@ -4530,7 +4530,7 @@
                               },
                               "hidden" : {
                                 "type" : "expression",
-                                "value" : "!ctxLocalisation_ctxContexte_persPersonnes_selected"
+                                "value" : "!ctxLocalisation_ctxContexte_persPersonnes.includes(ctxLocalisation_ctxContexte_persPersonnes_selected)"
                               },
                               "widgetId" : {
                                 "type" : "constant"
@@ -5760,7 +5760,7 @@
                                 "value" : ""
                               }
                             },
-                            "reference" : "c9e30c41-8549-4865-ae17-71431837a8a4",
+                            "reference" : "558ce523-9450-47a2-8905-dc542d3225bd",
                             "hasValidationError" : false,
                             "id" : "pbContainer",
                             "rows" : [
@@ -5786,7 +5786,7 @@
                               },
                               "hidden" : {
                                 "type" : "expression",
-                                "value" : "!ctxTelephone_ctxContexte_persPersonnes_selected"
+                                "value" : "!ctxTelephone_ctxContexte_persPersonnes.includes(ctxTelephone_ctxContexte_persPersonnes_selected)"
                               },
                               "widgetId" : {
                                 "type" : "constant"
@@ -6369,7 +6369,7 @@
                                 "value" : ""
                               }
                             },
-                            "reference" : "f18ac1bd-a214-47d2-bce2-ea16c7fd6de3",
+                            "reference" : "3f58a8cc-6499-4871-b972-6d6d8ab2c133",
                             "hasValidationError" : false,
                             "id" : "pbContainer",
                             "rows" : [
@@ -6395,7 +6395,7 @@
                               },
                               "hidden" : {
                                 "type" : "expression",
-                                "value" : "!ctxMail_ctxContexte_persPersonnes_selected"
+                                "value" : "!ctxMail_ctxContexte_persPersonnes.includes(ctxMail_ctxContexte_persPersonnes_selected)"
                               },
                               "widgetId" : {
                                 "type" : "constant"
