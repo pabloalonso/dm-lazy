@@ -1,8 +1,8 @@
 {
   "designerVersion" : "1.10.34",
-  "id" : "PersPersonneList",
-  "name" : "PersPersonneList",
-  "lastUpdate" : 1580396378189,
+  "id" : "PersPersonneListv2",
+  "name" : "PersPersonneListv2",
+  "lastUpdate" : 1580456804826,
   "rows" : [
     [
       {
@@ -20,7 +20,7 @@
             "value" : false
           }
         },
-        "reference" : "73618f93-98a0-4d3c-9eb2-f2880bd7201b",
+        "reference" : "3274a1ea-3e21-41d7-a9a7-3ae446d76a11",
         "hasValidationError" : false,
         "id" : "pbFormContainer",
         "container" : {
@@ -29,7 +29,7 @@
             "xs" : 12
           },
           "propertyValues" : { },
-          "reference" : "55e5d335-4e0b-4d06-a8ee-de8799b842d3",
+          "reference" : "62dd6065-092d-4d47-b1eb-18cf13d99e03",
           "hasValidationError" : false,
           "id" : "pbContainer",
           "rows" : [
@@ -145,7 +145,7 @@
                     "value" : false
                   }
                 },
-                "reference" : "7fc3c59d-b578-4f51-9894-2fa9b95f0384",
+                "reference" : "bff21909-99f1-4ad2-b6c8-5aae75a64d02",
                 "hasValidationError" : false,
                 "id" : "pbDataTable"
               }
@@ -173,7 +173,7 @@
                     "value" : ""
                   }
                 },
-                "reference" : "ada9a6b5-589f-45de-88a7-cf42a1f2919d",
+                "reference" : "cb3eb9c6-22d5-4c88-ba02-4ed82c353683",
                 "hasValidationError" : false,
                 "id" : "pbContainer",
                 "rows" : [
@@ -228,7 +228,7 @@
                     "value" : "org.bonitasoft.web.designer.experimental.parametrizedWidget.WidgetContainer"
                   }
                 },
-                "reference" : "4587f367-a18c-40d3-89aa-83265484f53b",
+                "reference" : "cf52b568-b89d-4f3f-a833-332a366e2a93",
                 "hasValidationError" : false,
                 "id" : "pbContainer",
                 "rows" : [
@@ -320,7 +320,7 @@
                           "value" : 1
                         }
                       },
-                      "reference" : "8831c1e8-ed13-4957-b251-3c67cb1b29b8",
+                      "reference" : "c887aae5-a6d3-43d1-897c-abbb262a2eb1",
                       "hasValidationError" : false,
                       "id" : "pbInput"
                     }
@@ -413,7 +413,7 @@
                           "value" : 1
                         }
                       },
-                      "reference" : "458cba6a-6403-400f-84e8-686dc13c07da",
+                      "reference" : "cc363c43-9f17-40be-9d1a-bc79547c84fa",
                       "hasValidationError" : false,
                       "id" : "pbInput"
                     }
@@ -506,7 +506,7 @@
                           "value" : 1
                         }
                       },
-                      "reference" : "fd8c8e8b-9882-4582-b2c8-290e111061fa",
+                      "reference" : "930a2d12-4131-4203-9883-983bd4dbb3d7",
                       "hasValidationError" : false,
                       "id" : "pbInput"
                     }
@@ -599,7 +599,7 @@
                           "value" : 1
                         }
                       },
-                      "reference" : "222e701b-0f3e-4d7e-984a-b6c834a8b7ff",
+                      "reference" : "e96e509a-d0a0-4b2d-911f-597e7b967405",
                       "hasValidationError" : false,
                       "id" : "pbInput"
                     }
@@ -692,7 +692,7 @@
                           "value" : 1
                         }
                       },
-                      "reference" : "a382c6e9-5c1b-41d8-b6ac-1e629fde4f29",
+                      "reference" : "4cb7941c-72bf-4b4a-ae91-83b0829afb28",
                       "hasValidationError" : false,
                       "id" : "pbInput"
                     }
@@ -785,7 +785,7 @@
                           "value" : 1
                         }
                       },
-                      "reference" : "d191954f-5a95-4962-8a9a-83c3ce8f8ac3",
+                      "reference" : "fcac12c8-55f8-4e98-8d9a-16f67f96d372",
                       "hasValidationError" : false,
                       "id" : "pbInput"
                     }
@@ -878,7 +878,7 @@
                           "value" : 1
                         }
                       },
-                      "reference" : "456de779-5b2a-4c9f-ad32-331430748146",
+                      "reference" : "e2b33ed6-12b9-41eb-b552-2331fbaf0ab6",
                       "hasValidationError" : false,
                       "id" : "pbInput"
                     }
@@ -971,7 +971,7 @@
                           "value" : 1
                         }
                       },
-                      "reference" : "dc689167-86f0-4d37-be46-989186cf07c9",
+                      "reference" : "b29a7375-7cfd-438a-abae-0567f21b9b52",
                       "hasValidationError" : false,
                       "id" : "pbInput"
                     }
@@ -1058,7 +1058,7 @@
                           "value" : "org.bonitasoft.web.designer.experimental.parametrizedWidget.DatePickerWidget"
                         }
                       },
-                      "reference" : "0536ca6f-a9be-497a-bb4b-5a3caeb0c5e0",
+                      "reference" : "0cce4fc9-ff86-4cd7-8452-e59ea4ebbf89",
                       "hasValidationError" : false,
                       "id" : "pbDatePicker"
                     }
@@ -1151,7 +1151,7 @@
                           "value" : 1
                         }
                       },
-                      "reference" : "5220b578-5a10-415f-afb9-d65a502003da",
+                      "reference" : "7f3370f2-e226-4eaf-a7c7-cc5c9f549ac6",
                       "hasValidationError" : false,
                       "id" : "pbInput"
                     }
@@ -1244,7 +1244,7 @@
                           "value" : 1
                         }
                       },
-                      "reference" : "040a9f16-1572-4954-bef9-c844487732f3",
+                      "reference" : "1b914e72-c5c9-4be8-9005-4c0807f9fb8b",
                       "hasValidationError" : false,
                       "id" : "pbInput"
                     }
@@ -1337,7 +1337,7 @@
                           "value" : 1
                         }
                       },
-                      "reference" : "4ec3a4d2-0670-411f-a7f8-e784109f6670",
+                      "reference" : "c845b40b-5df6-49d5-afe9-33e80f6e3a56",
                       "hasValidationError" : false,
                       "id" : "pbInput"
                     }
@@ -1424,7 +1424,7 @@
                           "value" : "org.bonitasoft.web.designer.experimental.parametrizedWidget.DatePickerWidget"
                         }
                       },
-                      "reference" : "0de5a69f-8aac-4671-a1e0-8b5068341cd9",
+                      "reference" : "784bc203-1578-4a33-8761-a475a4763bf1",
                       "hasValidationError" : false,
                       "id" : "pbDatePicker"
                     }
@@ -1517,7 +1517,7 @@
                           "value" : 1
                         }
                       },
-                      "reference" : "3166a727-5e81-4c74-aa32-53b6c6d5fff8",
+                      "reference" : "c3ec5ab1-c18f-43fc-9045-d2433f251f10",
                       "hasValidationError" : false,
                       "id" : "pbInput"
                     }
@@ -1604,7 +1604,7 @@
                           "value" : "org.bonitasoft.web.designer.experimental.parametrizedWidget.DatePickerWidget"
                         }
                       },
-                      "reference" : "ddcdf3d4-8c01-4838-8ace-87336d864f14",
+                      "reference" : "7f1481c4-92fe-43f8-a19e-20cc3b772827",
                       "hasValidationError" : false,
                       "id" : "pbDatePicker"
                     }
@@ -1691,7 +1691,7 @@
                           "value" : "org.bonitasoft.web.designer.experimental.parametrizedWidget.DatePickerWidget"
                         }
                       },
-                      "reference" : "2e94bf08-e118-4947-ab68-7910f76f14dd",
+                      "reference" : "a6929afa-2358-47d3-9e25-aa40317c8deb",
                       "hasValidationError" : false,
                       "id" : "pbDatePicker"
                     }
@@ -1778,7 +1778,7 @@
                           "value" : "org.bonitasoft.web.designer.experimental.parametrizedWidget.DatePickerWidget"
                         }
                       },
-                      "reference" : "bc044830-bf70-4e52-bcad-c93b88622cea",
+                      "reference" : "506ade44-d3fa-4754-815a-e8b03cea6455",
                       "hasValidationError" : false,
                       "id" : "pbDatePicker"
                     }
@@ -1871,7 +1871,7 @@
                           "value" : 1
                         }
                       },
-                      "reference" : "5affc6e8-8e58-41fe-8e8f-c387e85815e3",
+                      "reference" : "111dfeb8-99cd-4ebb-9d8f-9725780e5a40",
                       "hasValidationError" : false,
                       "id" : "pbInput"
                     }
@@ -1930,7 +1930,7 @@
                           "value" : "org.bonitasoft.web.designer.experimental.parametrizedWidget.TitleWidget"
                         }
                       },
-                      "reference" : "33d9fdb0-e435-496a-85e6-aa4517255671",
+                      "reference" : "ceecbf02-031c-49fa-882e-602d7a40a968",
                       "hasValidationError" : false,
                       "id" : "pbTitle"
                     }
@@ -2059,7 +2059,7 @@
                           "value" : false
                         }
                       },
-                      "reference" : "a9f1d55d-fbb9-4dbc-aa16-e4f3a47f7c63",
+                      "reference" : "89964272-b58c-4dbc-b61d-071d78308831",
                       "hasValidationError" : false,
                       "id" : "pbDataTable"
                     }
@@ -2087,7 +2087,7 @@
                           "value" : ""
                         }
                       },
-                      "reference" : "ac4e875e-e018-4df7-a637-bda8a55ae234",
+                      "reference" : "939f808e-91b3-4fba-a02b-b1f04cc7a6d4",
                       "hasValidationError" : false,
                       "id" : "pbContainer",
                       "rows" : [
@@ -2142,7 +2142,7 @@
                           "value" : "org.bonitasoft.web.designer.experimental.parametrizedWidget.WidgetContainer"
                         }
                       },
-                      "reference" : "49e84feb-e56d-4c39-8e8d-371853c1c7a5",
+                      "reference" : "12806b9c-48f3-4a99-89f4-75efaa26619f",
                       "hasValidationError" : false,
                       "id" : "pbContainer",
                       "rows" : [
@@ -2234,7 +2234,7 @@
                                 "value" : 1
                               }
                             },
-                            "reference" : "ecfcf765-01b2-40cb-b1c7-1931942be9f2",
+                            "reference" : "1be14a84-da6e-4712-ac54-d016d757755c",
                             "hasValidationError" : false,
                             "id" : "pbInput"
                           }
@@ -2327,7 +2327,7 @@
                                 "value" : 1
                               }
                             },
-                            "reference" : "432a97cf-8f75-4b61-8f39-f0e2b91705f0",
+                            "reference" : "82269af2-9458-4485-8142-f04cb021eedb",
                             "hasValidationError" : false,
                             "id" : "pbInput"
                           }
@@ -2420,7 +2420,7 @@
                                 "value" : 1
                               }
                             },
-                            "reference" : "cceded4e-bfd5-44c7-82bb-79d9da7cd7ae",
+                            "reference" : "86d09d0a-5d1b-41de-98c3-a2c15774dcfe",
                             "hasValidationError" : false,
                             "id" : "pbInput"
                           }
@@ -2513,7 +2513,7 @@
                                 "value" : 1
                               }
                             },
-                            "reference" : "f22ea652-b552-4cf1-9ae1-ba670fa02fe3",
+                            "reference" : "050358b4-c456-4f3a-8d76-f260e1a4f177",
                             "hasValidationError" : false,
                             "id" : "pbInput"
                           }
@@ -2606,7 +2606,7 @@
                                 "value" : 1
                               }
                             },
-                            "reference" : "00555ce4-4ca2-4b3a-bb46-38625074db2a",
+                            "reference" : "5a92c77a-dd65-4b68-9025-dbb99fff4bcb",
                             "hasValidationError" : false,
                             "id" : "pbInput"
                           }
@@ -2699,7 +2699,7 @@
                                 "value" : 1
                               }
                             },
-                            "reference" : "1e3b18a3-eba3-41d4-b945-c297de1a4356",
+                            "reference" : "b25db405-6a2d-49bd-9cd4-f06640da35de",
                             "hasValidationError" : false,
                             "id" : "pbInput"
                           }
@@ -2792,7 +2792,7 @@
                                 "value" : 1
                               }
                             },
-                            "reference" : "df21be03-63a3-4cc2-b3b2-c41286df4d73",
+                            "reference" : "c6572a28-3813-4470-a65e-b02395585e70",
                             "hasValidationError" : false,
                             "id" : "pbInput"
                           }
@@ -2885,7 +2885,7 @@
                                 "value" : 1
                               }
                             },
-                            "reference" : "1bb91853-649c-46b1-b20f-937eaefbb702",
+                            "reference" : "b12a6b79-611e-4b64-be65-e58f1f528cb1",
                             "hasValidationError" : false,
                             "id" : "pbInput"
                           }
@@ -2972,7 +2972,7 @@
                                 "value" : "org.bonitasoft.web.designer.experimental.parametrizedWidget.DatePickerWidget"
                               }
                             },
-                            "reference" : "b66487e8-dadb-4374-92f7-742739332a4d",
+                            "reference" : "70060612-0c68-452b-971b-ab267c52a8f0",
                             "hasValidationError" : false,
                             "id" : "pbDatePicker"
                           }
@@ -3059,7 +3059,7 @@
                                 "value" : "org.bonitasoft.web.designer.experimental.parametrizedWidget.DatePickerWidget"
                               }
                             },
-                            "reference" : "f4585b54-3a09-4303-b48d-e97dd1979ba3",
+                            "reference" : "9d675ca0-fb35-4927-add4-98423795ea8e",
                             "hasValidationError" : false,
                             "id" : "pbDatePicker"
                           }
@@ -3152,7 +3152,7 @@
                                 "value" : 1
                               }
                             },
-                            "reference" : "79a3d2ec-f7de-463a-b6d2-11bfa78065f2",
+                            "reference" : "3d9a3efc-8edd-4fae-ad6e-169e40c67373",
                             "hasValidationError" : false,
                             "id" : "pbInput"
                           }
@@ -3239,7 +3239,7 @@
                                 "value" : "org.bonitasoft.web.designer.experimental.parametrizedWidget.DatePickerWidget"
                               }
                             },
-                            "reference" : "5396a69d-1819-4d4b-a7d7-30556ea03495",
+                            "reference" : "82dfa571-0d35-49c0-b782-fb8ba3f0bd09",
                             "hasValidationError" : false,
                             "id" : "pbDatePicker"
                           }
@@ -3332,7 +3332,7 @@
                                 "value" : 1
                               }
                             },
-                            "reference" : "d411bf90-86ef-4978-894c-85e3d8b10c5d",
+                            "reference" : "db762873-6448-4bbe-9db2-27353bc07db6",
                             "hasValidationError" : false,
                             "id" : "pbInput"
                           }
@@ -3425,7 +3425,7 @@
                                 "value" : 1
                               }
                             },
-                            "reference" : "8fea0b16-c667-4ca4-9ee6-ccc29fbe87fa",
+                            "reference" : "c3ddbd27-5e7d-4087-92f4-b62e28791b51",
                             "hasValidationError" : false,
                             "id" : "pbInput"
                           }
@@ -3518,7 +3518,7 @@
                                 "value" : 1
                               }
                             },
-                            "reference" : "bfceb883-04ea-4609-b3e3-0be359f37760",
+                            "reference" : "71a7f74a-8436-40f3-8d7e-cd3fc621929e",
                             "hasValidationError" : false,
                             "id" : "pbInput"
                           }
@@ -3611,7 +3611,7 @@
                                 "value" : 1
                               }
                             },
-                            "reference" : "81781a91-05e4-455f-9939-4f95f0580d7a",
+                            "reference" : "bd1fdbd8-5881-40d6-aee0-1bcf3bc0b231",
                             "hasValidationError" : false,
                             "id" : "pbInput"
                           }
@@ -3704,7 +3704,7 @@
                                 "value" : 1
                               }
                             },
-                            "reference" : "3c284238-6389-4ed3-a586-d74ba471b52c",
+                            "reference" : "f41ca2a6-bd05-4e48-aac9-7c38f6effd9e",
                             "hasValidationError" : false,
                             "id" : "pbInput"
                           }
@@ -3797,7 +3797,7 @@
                                 "value" : 1
                               }
                             },
-                            "reference" : "5ea102b2-ab5c-4138-98d0-32f3ca80141d",
+                            "reference" : "e066a954-db3f-45e9-b04b-592bf5dabcf3",
                             "hasValidationError" : false,
                             "id" : "pbInput"
                           }
@@ -3890,7 +3890,7 @@
                                 "value" : 1
                               }
                             },
-                            "reference" : "8690d707-d59c-49e0-8c61-828acc87bed4",
+                            "reference" : "67212072-9513-439a-9d9a-e8d5e44aca5f",
                             "hasValidationError" : false,
                             "id" : "pbInput"
                           }
@@ -3983,7 +3983,7 @@
                                 "value" : 1
                               }
                             },
-                            "reference" : "d5caf5f0-41c4-432e-9088-45f587b9ab68",
+                            "reference" : "3c775aa0-4179-4ece-8f61-aba64af7bb4c",
                             "hasValidationError" : false,
                             "id" : "pbInput"
                           }
@@ -4076,7 +4076,7 @@
                                 "value" : 1
                               }
                             },
-                            "reference" : "ed701a28-e135-467b-9409-7fb3b71bacb6",
+                            "reference" : "dab675fc-b2d7-4ff4-a3d1-3bbe1b4ed0ac",
                             "hasValidationError" : false,
                             "id" : "pbInput"
                           }
@@ -4136,7 +4136,7 @@
                                 "value" : false
                               }
                             },
-                            "reference" : "fba6a440-56a6-44bb-911f-1c6e924cf1eb",
+                            "reference" : "28b04ae9-ca79-45ea-9831-b678898d4508",
                             "hasValidationError" : false,
                             "id" : "pbCheckbox"
                           }
@@ -4229,7 +4229,7 @@
                                 "value" : 1
                               }
                             },
-                            "reference" : "5f58e166-1a32-41d2-8029-641e2231ce80",
+                            "reference" : "260c7542-1f69-4231-a007-1643760a4c13",
                             "hasValidationError" : false,
                             "id" : "pbInput"
                           }
@@ -4316,7 +4316,7 @@
                                 "value" : "org.bonitasoft.web.designer.experimental.parametrizedWidget.DatePickerWidget"
                               }
                             },
-                            "reference" : "769a4af3-00cd-4feb-989b-c2f0aaf34013",
+                            "reference" : "c0b01c42-76f5-4b72-b5ce-eda32cec7e2a",
                             "hasValidationError" : false,
                             "id" : "pbDatePicker"
                           }
@@ -4375,7 +4375,7 @@
                                 "value" : "org.bonitasoft.web.designer.experimental.parametrizedWidget.TitleWidget"
                               }
                             },
-                            "reference" : "09c775c0-f7a7-4ac7-bdfe-4e339195e8f1",
+                            "reference" : "f620cc63-70c2-4c85-a4b8-e21e1d60b16f",
                             "hasValidationError" : false,
                             "id" : "pbTitle"
                           }
@@ -4476,7 +4476,7 @@
                                 "value" : false
                               }
                             },
-                            "reference" : "497f91b5-dc9c-4a1d-95a3-c08665e9a8d2",
+                            "reference" : "d44169ff-a355-4965-91e6-00cd12b7420d",
                             "hasValidationError" : false,
                             "id" : "pbDataTable"
                           }
@@ -4504,7 +4504,7 @@
                                 "value" : ""
                               }
                             },
-                            "reference" : "f317f3b2-9bcd-49d1-a372-cf894093c3d0",
+                            "reference" : "beca7455-379c-418b-88d0-e35a8b9936ea",
                             "hasValidationError" : false,
                             "id" : "pbContainer",
                             "rows" : [
@@ -4559,7 +4559,7 @@
                                 "value" : "org.bonitasoft.web.designer.experimental.parametrizedWidget.WidgetContainer"
                               }
                             },
-                            "reference" : "9691417b-22ef-4660-aa2e-26135cd0dd9c",
+                            "reference" : "17fe8809-46f6-4f03-bd3b-07c24445ea0c",
                             "hasValidationError" : false,
                             "id" : "pbContainer",
                             "rows" : [
@@ -4651,7 +4651,7 @@
                                       "value" : 1
                                     }
                                   },
-                                  "reference" : "43f8b650-0aa0-4c28-8f42-1d3131083590",
+                                  "reference" : "f5fd2e16-db0f-4436-8a00-523c8cd8a1e4",
                                   "hasValidationError" : false,
                                   "id" : "pbInput"
                                 }
@@ -4744,7 +4744,7 @@
                                       "value" : 1
                                     }
                                   },
-                                  "reference" : "a4a283d4-60ca-419f-821b-36ead18c4367",
+                                  "reference" : "f7acddd3-9a4a-4fc4-92c8-3ff5e92f82a2",
                                   "hasValidationError" : false,
                                   "id" : "pbInput"
                                 }
@@ -4837,7 +4837,7 @@
                                       "value" : 1
                                     }
                                   },
-                                  "reference" : "1f6da0b0-7899-41c8-8b45-e51e63ee04fe",
+                                  "reference" : "915a0dda-033c-4a1b-8571-222414263f6d",
                                   "hasValidationError" : false,
                                   "id" : "pbInput"
                                 }
@@ -4930,7 +4930,7 @@
                                       "value" : 1
                                     }
                                   },
-                                  "reference" : "788745d0-ac03-4b7f-af8f-ecdb47a2797b",
+                                  "reference" : "3d4290bb-94d3-4588-a9a6-99fdef734fe4",
                                   "hasValidationError" : false,
                                   "id" : "pbInput"
                                 }
@@ -5023,7 +5023,7 @@
                                       "value" : 1
                                     }
                                   },
-                                  "reference" : "805e15ea-01c3-4460-94da-f92cb46aafec",
+                                  "reference" : "28c013a0-87f3-4031-8ff6-de7f9c4e17e2",
                                   "hasValidationError" : false,
                                   "id" : "pbInput"
                                 }
@@ -5116,7 +5116,7 @@
                                       "value" : 1
                                     }
                                   },
-                                  "reference" : "c752c719-210b-4544-8df5-e74231290429",
+                                  "reference" : "e4364524-62da-46e1-9302-aebbe7d881a8",
                                   "hasValidationError" : false,
                                   "id" : "pbInput"
                                 }
@@ -5209,7 +5209,7 @@
                                       "value" : 1
                                     }
                                   },
-                                  "reference" : "6111f87d-3656-491b-b3ba-03de5c5a1d3b",
+                                  "reference" : "1e2d2e8e-fb6f-477e-b24d-24deeec20ffc",
                                   "hasValidationError" : false,
                                   "id" : "pbInput"
                                 }
@@ -5302,7 +5302,7 @@
                                       "value" : 1
                                     }
                                   },
-                                  "reference" : "90979273-3d4b-4f82-9789-a5b0c3ad2a74",
+                                  "reference" : "3247725f-3ce7-4ed4-9018-56f2b6341b96",
                                   "hasValidationError" : false,
                                   "id" : "pbInput"
                                 }
@@ -5395,7 +5395,7 @@
                                       "value" : 1
                                     }
                                   },
-                                  "reference" : "34de7f9c-796e-45e1-ae63-fe8fdce2e42c",
+                                  "reference" : "68e3043b-097c-4600-97be-5ae9bffebcf3",
                                   "hasValidationError" : false,
                                   "id" : "pbInput"
                                 }
@@ -5488,7 +5488,7 @@
                                       "value" : 1
                                     }
                                   },
-                                  "reference" : "3cfd19b6-8175-4a2b-a165-4934e826280f",
+                                  "reference" : "bc5db3f4-9f3d-4e55-ba61-1600b37aa174",
                                   "hasValidationError" : false,
                                   "id" : "pbInput"
                                 }
@@ -5581,7 +5581,7 @@
                                       "value" : 1
                                     }
                                   },
-                                  "reference" : "243496e0-e5ec-417c-9cb1-f8cf64028ea7",
+                                  "reference" : "51dd9236-effe-4e1f-8919-295552fed613",
                                   "hasValidationError" : false,
                                   "id" : "pbInput"
                                 }
@@ -5643,7 +5643,7 @@
                                 "value" : "org.bonitasoft.web.designer.experimental.parametrizedWidget.TitleWidget"
                               }
                             },
-                            "reference" : "398e10a7-e05d-4906-8e5c-0a6c92fd887b",
+                            "reference" : "c39f58e5-cd15-49aa-b883-fe74ee59af0e",
                             "hasValidationError" : false,
                             "id" : "pbTitle"
                           }
@@ -5732,7 +5732,7 @@
                                 "value" : false
                               }
                             },
-                            "reference" : "f71fcf41-a220-4a53-b6d6-577ddb1d029b",
+                            "reference" : "81c7775b-8699-4a3c-8562-2448ed6f1ae5",
                             "hasValidationError" : false,
                             "id" : "pbDataTable"
                           }
@@ -5760,7 +5760,7 @@
                                 "value" : ""
                               }
                             },
-                            "reference" : "ba0e70e9-9e84-4a7c-ad49-b45d351068e2",
+                            "reference" : "a2d7967c-ef88-449d-9db4-3f8139f9d2c1",
                             "hasValidationError" : false,
                             "id" : "pbContainer",
                             "rows" : [
@@ -5815,7 +5815,7 @@
                                 "value" : "org.bonitasoft.web.designer.experimental.parametrizedWidget.WidgetContainer"
                               }
                             },
-                            "reference" : "66fae667-64c3-42d5-af12-4bed275e4c01",
+                            "reference" : "7a04e322-e88d-4489-9fad-49a5dd4bffde",
                             "hasValidationError" : false,
                             "id" : "pbContainer",
                             "rows" : [
@@ -5907,7 +5907,7 @@
                                       "value" : 1
                                     }
                                   },
-                                  "reference" : "58ec71e3-c367-4532-abdd-7e64bf482c03",
+                                  "reference" : "7073a5cf-7c27-4ad3-a71c-d1e8035eaf3a",
                                   "hasValidationError" : false,
                                   "id" : "pbInput"
                                 }
@@ -6000,7 +6000,7 @@
                                       "value" : 1
                                     }
                                   },
-                                  "reference" : "35246d58-7ca7-46dd-a75a-69aab988b6c5",
+                                  "reference" : "912da935-270e-460c-a752-083ccdadac76",
                                   "hasValidationError" : false,
                                   "id" : "pbInput"
                                 }
@@ -6093,7 +6093,7 @@
                                       "value" : 1
                                     }
                                   },
-                                  "reference" : "8f22f5e3-4553-4d99-81e0-2301956938b2",
+                                  "reference" : "3adba24a-4553-432f-806d-2e1339eb1123",
                                   "hasValidationError" : false,
                                   "id" : "pbInput"
                                 }
@@ -6186,7 +6186,7 @@
                                       "value" : 1
                                     }
                                   },
-                                  "reference" : "64c3ee80-63a1-42d9-b9b6-a2e311df350c",
+                                  "reference" : "ff30c5bf-9e88-4ba8-bba7-10df8f34f4d9",
                                   "hasValidationError" : false,
                                   "id" : "pbInput"
                                 }
@@ -6248,7 +6248,7 @@
                                 "value" : "org.bonitasoft.web.designer.experimental.parametrizedWidget.TitleWidget"
                               }
                             },
-                            "reference" : "3e3b23f7-f5d8-4026-a80f-a71a40d2deb4",
+                            "reference" : "2dcca076-06f4-415d-8ebd-22cd4d0fb383",
                             "hasValidationError" : false,
                             "id" : "pbTitle"
                           }
@@ -6341,7 +6341,7 @@
                                 "value" : false
                               }
                             },
-                            "reference" : "4c105dec-eb55-4858-872d-4189938bdba6",
+                            "reference" : "a2275345-50d8-49aa-be3d-b3ee5c91e251",
                             "hasValidationError" : false,
                             "id" : "pbDataTable"
                           }
@@ -6369,7 +6369,7 @@
                                 "value" : ""
                               }
                             },
-                            "reference" : "6df1c610-9551-4b73-97ab-873bf839be96",
+                            "reference" : "c5604244-21c2-4546-8f0f-07bc063b185b",
                             "hasValidationError" : false,
                             "id" : "pbContainer",
                             "rows" : [
@@ -6424,7 +6424,7 @@
                                 "value" : "org.bonitasoft.web.designer.experimental.parametrizedWidget.WidgetContainer"
                               }
                             },
-                            "reference" : "e9e68be7-789d-4222-96a6-7c5b74dca6cf",
+                            "reference" : "6feb9e9a-582b-4bdf-bbc0-0d61c236dacc",
                             "hasValidationError" : false,
                             "id" : "pbContainer",
                             "rows" : [
@@ -6516,7 +6516,7 @@
                                       "value" : 1
                                     }
                                   },
-                                  "reference" : "a9921c36-0179-4694-a88b-03a569917c7c",
+                                  "reference" : "898f7547-6c27-45b2-8645-1497332ffc4a",
                                   "hasValidationError" : false,
                                   "id" : "pbInput"
                                 }
@@ -6609,7 +6609,7 @@
                                       "value" : 1
                                     }
                                   },
-                                  "reference" : "0ebde36d-9dfa-4cf8-98af-f5d2f1319802",
+                                  "reference" : "dbb772a1-3ad3-44a1-bc6e-ae3792a087ca",
                                   "hasValidationError" : false,
                                   "id" : "pbInput"
                                 }
@@ -6702,7 +6702,7 @@
                                       "value" : 1
                                     }
                                   },
-                                  "reference" : "3bce1150-0b04-48bf-b790-93c2f3dc3729",
+                                  "reference" : "41dad680-c2ea-4db8-a1a3-a41f6f22997f",
                                   "hasValidationError" : false,
                                   "id" : "pbInput"
                                 }
@@ -6795,7 +6795,7 @@
                                       "value" : 1
                                     }
                                   },
-                                  "reference" : "305be4be-55b6-418e-8cfe-c28e413c01c4",
+                                  "reference" : "03bebad4-f225-4f3c-b447-f2c6c1473b54",
                                   "hasValidationError" : false,
                                   "id" : "pbInput"
                                 }
@@ -6888,7 +6888,7 @@
                                       "value" : 1
                                     }
                                   },
-                                  "reference" : "1db9f2b0-1fe8-4f44-bd68-e00623adbf08",
+                                  "reference" : "719c16b9-6c76-4120-b1c4-cc342e475c11",
                                   "hasValidationError" : false,
                                   "id" : "pbInput"
                                 }
@@ -6981,7 +6981,7 @@
                                       "value" : 1
                                     }
                                   },
-                                  "reference" : "dac6060e-5c74-49f8-a9cc-d975bcb2df5c",
+                                  "reference" : "d091b60d-77aa-4908-a96a-61470c8fb763",
                                   "hasValidationError" : false,
                                   "id" : "pbInput"
                                 }
@@ -7032,7 +7032,7 @@
     "ctxContexte_persPersonnes" : {
       "type" : "url",
       "value" : [
-        "../API/bdm/businessData/com.origin.model.PersPersonne/{{persPersonnes_selected.persistenceId}}/ctxContexte"
+        "{{persPersonnes_selected|lazyRef:'ctxContexte'}}"
       ],
       "exposed" : false
     },
@@ -7043,7 +7043,7 @@
     "ctxLocalisation_ctxContexte_persPersonnes" : {
       "type" : "url",
       "value" : [
-        "../API/bdm/businessData/com.origin.model.CtxContexte/{{ctxContexte_persPersonnes_selected.persistenceId}}/ctxLocalisationFk"
+        "{{ctxContexte_persPersonnes_selected|lazyRef:'ctxLocalisationFk'}}"
       ],
       "exposed" : false
     },
@@ -7054,7 +7054,7 @@
     "ctxMail_ctxContexte_persPersonnes" : {
       "type" : "url",
       "value" : [
-        "../API/bdm/businessData/com.origin.model.CtxContexte/{{ctxContexte_persPersonnes_selected.persistenceId}}/ctxMailFk"
+        "{{ctxContexte_persPersonnes_selected|lazyRef:'ctxMailFk'}}"
       ],
       "exposed" : false
     },
@@ -7065,7 +7065,7 @@
     "ctxTelephone_ctxContexte_persPersonnes" : {
       "type" : "url",
       "value" : [
-        "../API/bdm/businessData/com.origin.model.CtxContexte/{{ctxContexte_persPersonnes_selected.persistenceId}}/ctxTelephoneFk"
+        "{{ctxContexte_persPersonnes_selected|lazyRef:'ctxTelephoneFk'}}"
       ],
       "exposed" : false
     },
@@ -7075,7 +7075,7 @@
     }
   },
   "hasValidationError" : false,
-  "uuid" : "8ce411f7-17a8-4d81-b439-29ec0cfdd9e0",
+  "uuid" : "31f0991d-e64d-40d1-ade7-b4b216c75ead",
   "type" : "page",
   "description" : "Page generated with Bonita UI designer"
 }
